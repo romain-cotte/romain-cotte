@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/romain-cotte/romain-cotte/blob/master/media/warming_stripes.png?raw=true">
+  <img src="https://github.com/romain-cotte/romain-cotte/blob/main/media/warming_stripes.png?raw=true">
 </p>
