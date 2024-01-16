@@ -11,3 +11,7 @@
   <a href="https://stackoverflow.com/" title="stackoverflow"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png" width="60"/></a>
   <br>
 </p>
+
+<p align="center">
+  <img src="https://github.com/romain-cotte/romain-cotte/blob/master/media/warming_stripes.png?raw=true">
+</p>
