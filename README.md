@@ -13,5 +13,9 @@
 </p>
 
 <p align="center">
+  <b>
+    Here is an example of climate visualization I worked on:
+  </b>
   <img src="https://github.com/romain-cotte/romain-cotte/blob/main/media/warming_stripes.png?raw=true">
+  <sub>Inspired by Sadie L. Bartholomew's Readme <a href="https://github.com/sadielbartholomew/">https://github.com/sadielbartholomew</a></sub><br>
 </p>
