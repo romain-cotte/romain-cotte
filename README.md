@@ -11,12 +11,18 @@
   <a href="https://git-scm.com/" title="git"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60"/></a>
   <a href="https://stackoverflow.com/" title="stackoverflow"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png" width="60"/></a>
   <br>
+  <br>
+  <b>
+    The following are some <a href="https://github.com/romain-cotte/grpc-climate/blob/master/scripts/visualize.ipynb">examples</a> of climate visualization I worked on.
+  </b>
+  <br>
 </p>
 <hr>
 <p align="center">
-  <b>
-    Here is an example of climate visualization I worked on:
-  </b>
   <img src="https://github.com/romain-cotte/romain-cotte/blob/main/media/warming_stripes.png?raw=true"><br>
+</p>
+<hr>
+<p align="center">
+  <img src="https://github.com/romain-cotte/romain-cotte/blob/main/media/scenarios_comparaison.png?raw=true"><br>
   <sub>Inspired by Sadie L. Bartholomew's Readme <a href="https://github.com/sadielbartholomew/">https://github.com/sadielbartholomew</a></sub><br>
 </p>
