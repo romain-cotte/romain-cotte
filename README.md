@@ -19,10 +19,10 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/romain-cotte/romain-cotte/blob/main/media/warming_stripes.png?raw=true"><br>
+  <img src="https://github.com/romain-cotte/grpc-climate/blob/master/scripts/figures/warming_stripes.png?raw=true"><br>
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/romain-cotte/romain-cotte/blob/main/media/scenarios_comparaison.png?raw=true"><br>
+  <img src="https://github.com/romain-cotte/grpc-climate/blob/master/scripts/figures/scenarios_comparaison.png?raw=true"><br>
   <sub>Inspired by Sadie L. Bartholomew's Readme <a href="https://github.com/sadielbartholomew/">https://github.com/sadielbartholomew</a></sub><br>
 </p>
