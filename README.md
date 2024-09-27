@@ -24,5 +24,5 @@
 <hr>
 <p align="center">
   <img src="https://github.com/romain-cotte/grpc-climate/blob/master/scripts/figures/scenarios_comparaison.png?raw=true"><br>
-  <sub>Inspired by Sadie L. Bartholomew's Readme <a href="https://github.com/sadielbartholomew/">https://github.com/sadielbartholomew</a></sub><br>
+  <sub>Inspired by Sadie L. Bartholomew's Readme <a href="https://github.com/sadielbartholomew/">https://github.com/sadielbartholomew</a> and with her approval.</sub><br>
 </p>
