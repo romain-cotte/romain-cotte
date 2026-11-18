@@ -6,10 +6,10 @@
   <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="65"/></a>
   <a href="https://www.linuxfoundation.org/projects/linux/" title="linux"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="55"/></a>
   <a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/></a>
-  <a href="https://isocpp.org/" title="C++"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="50"/></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50"/></a>
   <a href="https://www.sublimetext.com/" title="sublimetext"><img src="https://www.sublimehq.com/images/sublime_text.png" width="60"/></a>
   <a href="https://git-scm.com/" title="git"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60"/></a>
-  <a href="https://stackoverflow.com/" title="stackoverflow"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png" width="60"/></a>
+  <a href="https://stackoverflow.com/" title="stackoverflow"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="50"/></a>
   <br>
   <br>
   <b>
